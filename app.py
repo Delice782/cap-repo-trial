@@ -336,21 +336,21 @@ with st.expander("🔎 View Raw Data Sample"):
 st.caption("Built for AmaliTech Capstone — Veridi Logistics Audit")
 ```
 
----
+# ---
 
-## How to deploy it
+# ## How to deploy it
 
-**Step 1 — Create a `requirements.txt` file** with this content:
-```
-streamlit
-pandas
-matplotlib
-seaborn
-```
+# **Step 1 — Create a `requirements.txt` file** with this content:
+# ```
+# streamlit
+# pandas
+# matplotlib
+# seaborn
+# ```
 
-**Step 2 — Your GitHub repo needs these 3 files:**
-```
-your-repo/
-├── app.py
-├── requirements.txt
-└── veridi_master_dashboard_data.csv
+# **Step 2 — Your GitHub repo needs these 3 files:**
+# ```
+# your-repo/
+# ├── app.py
+# ├── requirements.txt
+# └── veridi_master_dashboard_data.csv
