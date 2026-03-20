@@ -334,7 +334,7 @@ with st.expander("🔎 View Raw Data Sample"):
     )
 
 st.caption("Built for AmaliTech Capstone — Veridi Logistics Audit")
-```
+
 
 # ---
 
